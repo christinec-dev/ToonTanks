@@ -23,7 +23,7 @@ Toon Tanks is a simple tanks inspired game made with Unreal Engine and C++. The 
     Vector maths for game play and physics calculations.
  
 ## Video Demo
-https://www.canva.com/design/DAE5XhG8yTU/yz28a39OEA0MxnRsgZTxqw/watch?utm_content=DAE5XhG8yTU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+https://youtu.be/WkYR_HYdIgM
 
 ## Main UI
 ![HighresScreenshot00000](https://user-images.githubusercontent.com/87696858/155713781-6cd89655-5e3f-492b-8f07-d06b5e60ac32.png)

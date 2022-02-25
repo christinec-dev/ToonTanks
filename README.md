@@ -27,7 +27,7 @@ Toon Tanks is a simple tanks inspired game made with Unreal Engine and C++. The 
 ![HighresScreenshot00001](https://user-images.githubusercontent.com/87696858/155713633-c4d8c8f8-3d0f-4bc3-adbb-cf5eefac698c.png) 
 ![HighresScreenshot00003](https://user-images.githubusercontent.com/87696858/155713616-993a1a56-6244-457d-92d4-b8d63016aaef.png)
 ![HighresScreenshot00004](https://user-images.githubusercontent.com/87696858/155713619-bf2628c1-079a-4d47-a993-75c2c0f5ebdd.png)
-!![HighresScreenshot00006](https://user-images.githubusercontent.com/87696858/155713624-32634660-b9c0-4b66-9fb7-584bd58dc4e2.png)
+![HighresScreenshot00006](https://user-images.githubusercontent.com/87696858/155713624-32634660-b9c0-4b66-9fb7-584bd58dc4e2.png)
 ![HighresScreenshot00005](https://user-images.githubusercontent.com/87696858/155713773-80aa4ab0-7f47-4577-a2db-792a29fb894d.png)
 ![HighresScreenshot00002](https://user-images.githubusercontent.com/87696858/155713609-71dcbbee-0d27-4f26-9f36-7e5bd4e3f334.png)
 ![HighresScreenshot00007](https://user-images.githubusercontent.com/87696858/155713801-e006e74b-2b64-4607-af4f-b475dc17d5de.png)

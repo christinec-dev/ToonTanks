@@ -1,5 +1,5 @@
 # ToonTanks
-Toon Tanks is a simple tanks inspired game made with Unreal Engine and C++. The main purpose of the game is to destroy all the enemy turrets. This is a beta version of the game, made from the ground up by me during the Unreal Engine C++ Developer: Learn C++ and Make Video Games course on Udemy https://www.udemy.com/course/unrealcourse/. The assets were found on the Unreal Engine Marketplace, namely the Assetsville Town Pack. The game uses various mechanics, effects, and blueprints.
+Toon Tanks is a simple tanks inspired game made with Unreal Engine and C++. The main purpose of the game is to destroy all the enemy turrets. This is a beta version of the game, made from the ground up by me during the Unreal Engine C++ Developer: Learn C++ and Make Video Games course on Udemy https://www.udemy.com/course/unrealcourse/. The assets that I used to build my map were found on the Unreal Engine Marketplace, namely the Assetsville Town Pack. The game uses various mechanics, effects, and blueprints.
 
 ## Topics covered in this project:
     C++, the games industry standard language.
